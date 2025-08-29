@@ -39,6 +39,8 @@ reliable. Blockchain uses cryptography (secret codes) and consensus (agreement a
 
 <img width="2560" height="1365" alt="image" src="https://github.com/user-attachments/assets/e6b2a336-5d41-4f3e-9501-8a7be7770db2" />
 Transactions are validated using consensus mechanisms such as Proof of Work or Proof of Stake, ensuring accuracy without needing a central authority. Beyond finance, blockchain powers smart contracts, which are self-executing agreements that trigger automatically once conditions are met—for example, releasing payment once goods are delivered.
+
+
 ### Gemini: 
 Blockchain is like a digital notebook shared across thousands of people. Every time a new entry is made, it gets locked in with the old ones, forming a chain that’s very hard to break. Because no single person owns it, everyone can trust it.
 
